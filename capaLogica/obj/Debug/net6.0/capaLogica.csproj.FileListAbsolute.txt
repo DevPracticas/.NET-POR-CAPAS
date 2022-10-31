@@ -1,0 +1,12 @@
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\bin\Debug\net6.0\capaLogica.deps.json
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\bin\Debug\net6.0\capaLogica.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\bin\Debug\net6.0\capaLogica.pdb
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\obj\Debug\net6.0\capaLogica.csproj.AssemblyReference.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\obj\Debug\net6.0\capaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\obj\Debug\net6.0\capaLogica.AssemblyInfoInputs.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\obj\Debug\net6.0\capaLogica.AssemblyInfo.cs
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\obj\Debug\net6.0\capaLogica.csproj.CoreCompileInputs.cache
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\obj\Debug\net6.0\capaLogica.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\obj\Debug\net6.0\refint\capaLogica.dll
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\obj\Debug\net6.0\capaLogica.pdb
+C:\Users\SOFTWARE.DESKTOP-1UFNM14\Documents\capaLogica\capaLogica\obj\Debug\net6.0\ref\capaLogica.dll
